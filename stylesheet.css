@@ -259,3 +259,32 @@ Hero and Service Section Start
     width: 60%;
   }
 }
+
+
+.ishika_varshney{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+flex-direction: row;
+}
+
+.piyush{
+  width: 100vh;
+  height: 60vh;
+
+}
+.kushagra_chutiya
+{
+  position: relative;
+  
+}
+
+.dev-playboy{
+  position: absolute;
+  
+  left: 30px;
+  top: 30px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
