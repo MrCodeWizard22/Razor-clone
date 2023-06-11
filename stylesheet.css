@@ -9,7 +9,6 @@
 
 html {
   font-size: 62.5%;
-  /* 1rem = 10px */
   overflow-x: hidden;
 }
 
@@ -150,33 +149,6 @@ body {
   width: 766px;
 
 }
-
-
-
-/* ===========================================
-Hero and Service Section Start
-======================================= */
-/* .section-hero,
-.section-services {
-  padding: 9.6rem 0;
-  background-color: #a5d8ff;
-  height: 60vh;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.section-services {
-  background: #f3f0ff;
-}
-
-.section-hero p,
-.section-services p {
-  font-size: 3.2rem;
-} */
-
-
 /* Mediaquerries */
 @media (max-width: 62em) {
   .mobile-navbar-btn {
